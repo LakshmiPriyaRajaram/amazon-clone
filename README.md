@@ -25,7 +25,7 @@ Feel free to fork the repository and submit pull requests with improvements or a
 This project is for educational purposes only and is **not affiliated with Amazon**.
 
 ## 🌐 Demo
-You can check out a live version of the project [here](#).
+You can check out a live version of the project [here](https://lakshmipriyarajaram.github.io/amazon-clone/).
 
 Happy coding! 🚀
 
